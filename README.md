@@ -2,11 +2,42 @@
 
 Kumpulan penyelesaian soal technical test menggunakan Dart.
 
-## Soal 1 — A000124 (Sloane's OEIS)
+## Persyaratan
 
-Program menghasilkan urutan bilangan A000124 berdasarkan jumlah output yang dimasukkan.
+- Dart SDK
 
-Jalankan dengan:
+## Cara Menjalankan
+
+Jalankan perintah dari direktori repository:
 
 ```bash
 dart Soal1.dart
+dart Soal2.dart
+dart Soal3.dart
+```
+
+## Soal 1 — A000124 (Sloane's OEIS)
+
+Program menerima jumlah output dan menampilkan urutan bilangan A000124.
+
+Screenshot:
+
+![Screenshot Soal 1](screenshots/soal1.png)
+
+## Soal 2 — Dense Ranking
+
+Program menerima jumlah pemain dan jumlah permainan, menghasilkan nilai secara acak, lalu menghitung peringkat untuk setiap nilai permainan.
+
+Screenshot:
+
+![Screenshot Soal 2](screenshots/soal2.png)
+
+> Nilai pemain dan permainan dibuat secara acak, sehingga hasil dapat berbeda setiap kali program dijalankan.
+
+## Soal 3 — Highest Palindrome
+
+Program menerima angka dan jumlah perubahan maksimum (`k`), lalu mencari palindrome terbesar yang dapat dibentuk. Jika tidak memungkinkan, program menampilkan `-1`.
+
+Screenshot:
+
+![Screenshot Soal 3](screenshots/soal3.png)
