@@ -22,7 +22,7 @@ Program menerima jumlah output dan menampilkan urutan bilangan A000124.
 
 Screenshot:
 
-![Screenshot Soal 1](screenshots/soal1.png)
+![Screenshot Soal 1](screenshots/Soal1.png)
 
 ## Soal 2 — Dense Ranking
 
@@ -30,7 +30,7 @@ Program menerima jumlah pemain dan jumlah permainan, menghasilkan nilai secara a
 
 Screenshot:
 
-![Screenshot Soal 2](screenshots/soal2.png)
+![Screenshot Soal 2](screenshots/Soal2.png)
 
 > Nilai pemain dan permainan dibuat secara acak, sehingga hasil dapat berbeda setiap kali program dijalankan.
 
@@ -40,4 +40,4 @@ Program menerima angka dan jumlah perubahan maksimum (`k`), lalu mencari palindr
 
 Screenshot:
 
-![Screenshot Soal 3](screenshots/soal3.png)
+![Screenshot Soal 3](screenshots/Soal3.png)
